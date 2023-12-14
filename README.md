@@ -3,11 +3,11 @@
  ***
 ## Currently working on:
 
-* [Azure CLI](https://github.com/azure/azure-cli)
+* [Azure IoT Operations Extension for Azure CLI](https://github.com/azure/azure-iot-ops-cli-extension)
 * [Azure IoT Extension for Azure CLI](https://github.com/azure/azure-iot-cli-extension)
-* Azure IoT blades in Azure Portal
-* Web Accessibility
+* [Azure CLI](https://github.com/azure/azure-cli)
 * Azure DevOps pipelines
+* Github workflow actions
 ***
 ## Currently playing with:
 * [Discord.js bots](https://discord.js.org/#/)
